@@ -1,4 +1,4 @@
-package com.algorithm.rectangular_star;
+package com.algorithm.level1.rectangular_star;
 
 import java.util.Scanner;
 
