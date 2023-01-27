@@ -34,7 +34,7 @@ class Solution {
     }
 }
 ```
-[!image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbaWDAx%2FbtrXmRezVSZ%2FJlyTnJyDcqR31hD5V3oLkK%2Fimg.png)
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbaWDAx%2FbtrXmRezVSZ%2FJlyTnJyDcqR31hD5V3oLkK%2Fimg.png)
 
 ### **실행 결과**
-[!image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FceE6Wf%2FbtrXmJ8IUWS%2FJ0dkrPEdpyx9zusGXHqucK%2Fimg.png)
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FceE6Wf%2FbtrXmJ8IUWS%2FJ0dkrPEdpyx9zusGXHqucK%2Fimg.png)
