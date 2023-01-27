@@ -1,4 +1,4 @@
-package org.example.rectangular_star;
+package com.algorithm.rectangular_star;
 
 import java.util.Scanner;
 
