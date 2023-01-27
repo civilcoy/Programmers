@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="4. 두 정수 사이의 합">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/convert_string_to_integer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/convert_string_to_integer/Solution05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="5. 문자열을 정수로 바꾸기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +150,7 @@
       <workItem from="1674821741785" duration="199000" />
       <workItem from="1674821943596" duration="990000" />
       <workItem from="1674823020835" duration="320000" />
-      <workItem from="1674823343590" duration="2371000" />
+      <workItem from="1674823343590" duration="2721000" />
     </task>
     <task id="LOCAL-00001" summary="1. 직사각형 별찍기">
       <created>1674792958643</created>
@@ -220,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674823207953</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="5. 문자열을 정수로 바꾸기">
+      <created>1674832009883</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674832009883</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +246,7 @@
     <MESSAGE value="readme 파일 추가" />
     <MESSAGE value="3. 가운데 글자 가져오기" />
     <MESSAGE value="4. 두 정수 사이의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="4. 두 정수 사이의 합" />
+    <MESSAGE value="5. 문자열을 정수로 바꾸기" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. 문자열을 정수로 바꾸기" />
   </component>
 </project>
