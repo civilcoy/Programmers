@@ -1,4 +1,4 @@
-package com.algorithm.get_middle_letter;
+package com.algorithm.level1.get_middle_letter;
 
 public class Solution03 {
     public String solution(String s) {
