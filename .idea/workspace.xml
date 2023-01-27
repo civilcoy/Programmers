@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="패키지 이름 변경" />
+    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="4. 두 정수 사이의 합">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/convert_string_to_integer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/convert_string_to_integer/Solution05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,22 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+}</component>
+  <component name="RunManager" selected="Application.Solution05">
+    <configuration name="Solution02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.even_and_odd.Solution02" />
       <module name="Programmers.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="com.algorithm.even_and_odd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +77,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.rectangular_star.Solution01" />
+    <configuration name="Solution03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.get_middle_letter.Solution03" />
       <module name="Programmers.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.rectangular_star.*" />
+          <option name="PATTERN" value="com.algorithm.get_middle_letter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.sum_between_two_integers.Solution04" />
+      <module name="Programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.sum_between_two_integers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.convert_string_to_integer.Solution05" />
+      <module name="Programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.convert_string_to_integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.algorithm.rectangular_star.Solution01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.rectangular_star.Solution01" />
+      <module name="Programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.rectangular_star.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution01" />
+        <item itemvalue="Application.Solution05" />
+        <item itemvalue="Application.Solution04" />
+        <item itemvalue="Application.Solution03" />
+        <item itemvalue="Application.Solution02" />
+        <item itemvalue="Application.com.algorithm.rectangular_star.Solution01" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +149,13 @@
       <updated>1674792230370</updated>
       <workItem from="1674792231732" duration="782000" />
       <workItem from="1674793017318" duration="293000" />
+      <workItem from="1674793313504" duration="69000" />
+      <workItem from="1674793385004" duration="9235000" />
+      <workItem from="1674815903708" duration="3700000" />
+      <workItem from="1674821741785" duration="199000" />
+      <workItem from="1674821943596" duration="990000" />
+      <workItem from="1674823020835" duration="320000" />
+      <workItem from="1674823343590" duration="2371000" />
     </task>
     <task id="LOCAL-00001" summary="1. 직사각형 별찍기">
       <created>1674792958643</created>
@@ -105,7 +171,56 @@
       <option name="project" value="LOCAL" />
       <updated>1674793269176</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1. 직사각형 별찍기">
+      <created>1674793371384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674793371384</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2. 짝수와 홀수">
+      <created>1674815011850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674815011850</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2. 짝수와 홀수">
+      <created>1674815118015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674815118015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="readme 파일 추가">
+      <created>1674815856372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674815856372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3. 가운데 글자 가져오기">
+      <created>1674821757752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674821757752</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3. 가운데 글자 가져오기">
+      <created>1674821950980</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674821950980</updated>
+    </task>
+    <task id="LOCAL-00009" summary="4. 두 정수 사이의 합">
+      <created>1674823207953</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674823207953</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,8 +238,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1. 직사각형 별찍기" />
     <MESSAGE value="패키지 이름 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지 이름 변경" />
+    <MESSAGE value="1. 직사각형 별찍기" />
+    <MESSAGE value="2. 짝수와 홀수" />
+    <MESSAGE value="readme 파일 추가" />
+    <MESSAGE value="3. 가운데 글자 가져오기" />
+    <MESSAGE value="4. 두 정수 사이의 합" />
+    <option name="LAST_COMMIT_MESSAGE" value="4. 두 정수 사이의 합" />
   </component>
 </project>
