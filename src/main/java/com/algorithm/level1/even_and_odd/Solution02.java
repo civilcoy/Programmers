@@ -1,4 +1,4 @@
-package com.algorithm.even_and_odd;
+package com.algorithm.level1.even_and_odd;
 public class Solution02 {
     public String solution(int num) {
         String answer = "";
