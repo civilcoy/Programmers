@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="5. 문자열을 정수로 바꾸기" />
+    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="Main.java 파일 삭제 및 .idea 폴더 git.ignore 처리" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,6 +151,7 @@
       <workItem from="1674821943596" duration="990000" />
       <workItem from="1674823020835" duration="320000" />
       <workItem from="1674823343590" duration="2721000" />
+      <workItem from="1674832143553" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="1. 직사각형 별찍기">
       <created>1674792958643</created>
@@ -222,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674832009883</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Main.java 파일 삭제 및 .idea 폴더 git.ignore 처리">
+      <created>1674832251437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674832251437</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +255,7 @@
     <MESSAGE value="3. 가운데 글자 가져오기" />
     <MESSAGE value="4. 두 정수 사이의 합" />
     <MESSAGE value="5. 문자열을 정수로 바꾸기" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. 문자열을 정수로 바꾸기" />
+    <MESSAGE value="Main.java 파일 삭제 및 .idea 폴더 git.ignore 처리" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main.java 파일 삭제 및 .idea 폴더 git.ignore 처리" />
   </component>
 </project>
