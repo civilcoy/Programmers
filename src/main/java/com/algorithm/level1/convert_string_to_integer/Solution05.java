@@ -1,4 +1,4 @@
-package com.algorithm.convert_string_to_integer;
+package com.algorithm.level1.convert_string_to_integer;
 
 // 문자열 s를 숫자로 변환한 결과를 반환하는 함수, solution을 완성하세요.
 public class Solution05 {

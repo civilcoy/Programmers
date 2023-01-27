@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="Main.java 파일 삭제 및 .idea 폴더 git.ignore 처리" />
+    <list default="true" id="e520b95f-dda2-4bec-82f0-5905b34d5a4b" name="Changes" comment="1. 직사각형 별찍기">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/convert_string_to_integer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/convert_string_to_integer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/convert_string_to_integer/Solution05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/convert_string_to_integer/Solution05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/even_and_odd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/even_and_odd/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/even_and_odd/Solution02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/even_and_odd/Solution02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/get_middle_letter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/get_middle_letter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/get_middle_letter/Solution03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/get_middle_letter/Solution03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/sum_between_two_integers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/sum_between_two_integers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/sum_between_two_integers/Solution04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/level1/sum_between_two_integers/Solution04.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,6 +162,8 @@
       <workItem from="1674823020835" duration="320000" />
       <workItem from="1674823343590" duration="2721000" />
       <workItem from="1674832143553" duration="206000" />
+      <workItem from="1674832352181" duration="202000" />
+      <workItem from="1674832557769" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="1. 직사각형 별찍기">
       <created>1674792958643</created>
@@ -230,7 +242,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674832251437</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=".idea ignore 처리">
+      <created>1674832531584</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674832531584</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1. 직사각형 별찍기">
+      <created>1674833459791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674833459791</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,13 +275,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="패키지 이름 변경" />
-    <MESSAGE value="1. 직사각형 별찍기" />
     <MESSAGE value="2. 짝수와 홀수" />
     <MESSAGE value="readme 파일 추가" />
     <MESSAGE value="3. 가운데 글자 가져오기" />
     <MESSAGE value="4. 두 정수 사이의 합" />
     <MESSAGE value="5. 문자열을 정수로 바꾸기" />
     <MESSAGE value="Main.java 파일 삭제 및 .idea 폴더 git.ignore 처리" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main.java 파일 삭제 및 .idea 폴더 git.ignore 처리" />
+    <MESSAGE value=".idea ignore 처리" />
+    <MESSAGE value="1. 직사각형 별찍기" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. 직사각형 별찍기" />
   </component>
 </project>
